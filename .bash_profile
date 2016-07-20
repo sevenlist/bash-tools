@@ -11,7 +11,7 @@ alias s="open -a 'Sublime Text 2'"
 alias w="git config --global user.name '<name>'; git config --global user.email <email>; git config --global -l; alias mvn=\"mvn -s $HOME/.m2/<company>-settings.xml\""
 
 export PS1="(\!) \u@\h:\w>"
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home
 export M2_HOME=/Applications/apache-maven-3.3.9
 export PATH=$JAVA_HOME/bin:$M2_HOME/bin:$PATH
 

@@ -5,7 +5,7 @@ case "$1" in
 		VERSION=jdk1.7.0_79.jdk
 		;;
         "8")
-                VERSION=jdk1.8.0_91.jdk
+                VERSION=jdk1.8.0_101.jdk
                 ;;
         *)
                 echo "Unknown JDK version! Specify 7 or 8!"
